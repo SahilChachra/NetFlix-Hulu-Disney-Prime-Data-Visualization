@@ -1,7 +1,7 @@
 <h1 align="center">Netflix, Hulu, Prime Video, Disney+ Data Visualization</h1>
 
 <div align='center'>
-<img src=''>https://github.com/SahilChachra/NetFlix-Hulu-Disney-Prime-Data-Visualization/blob/main/sampleImages/tenor.gif<br>
+<img src='https://github.com/SahilChachra/NetFlix-Hulu-Disney-Prime-Data-Visualization/blob/main/sampleImages/tenor.gif'><br>
 Above GIF has been downloaded from tenor.com
 </div>
 
