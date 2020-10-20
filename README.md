@@ -15,27 +15,29 @@ Above GIF has been downloaded from tenor.com
 During the lockdown period of 2020, these streaming platforms gained alot of users! But did you ever think - What all movies are there in these platforms? Which platform  is home to some of the most popular movies with very high IMDB ratings? Which platform provides most family friendly movies? And there are many such similar questions...
 
 ## :star: Features
-<ol>
-    <li>Graph for No. of Movies vs No. of TV Shows</li>
-    <li>Graph for Country having most no. of Movies and TV Shows available</li>
-    <li>Graph for Year in which most no. of Shows/Movies added</li>
-    <ul><li><H4>Movies</H4></li></ul>
-        <ol>
-            <li>Graph for Average duration of Movies</li>
-            <li>Graph for Director with Most no. of Movies</li>
-            <li>Graph for most popular Genre</li>
-            <li>Graph for Cast with Most no. of Movies</li>
-            <li>Graph for Cast with Most no. of Movies</li>
-        </ol>
-        <ul><li><H4>TV Shows</H4></li></ul>
-        <ol>
-            <li>Graph for Average no. of Seasons in TV hows</li>
-            <li>Graph for Country with MOst no. of available TV Shows</li>
-            <li>Graph for Cast with Most no. of TV Shows</li>
-            <li>Graph for most popular Genre for TV Shows</li>
-            <li>Graph for Cast with Most no. of TV Shows</li>
-        </ol>
-</ol>
+<ul>
+    <li>Exploratory Data Analysis</li>
+        <ul>
+            <li>Removed un-neccessary columns</li>
+            <li>Type conversion of few columns</li>
+            <li>Checked Missing Data</li>
+            <li>Little analysis from info of the dataset</li>
+        </ul>
+    <li>Graphs</li>
+        <ul>
+            <li>Number of movies for each age group</li>
+            <li>Number of movies for specific age group in each streaming service</li>
+            <li>Streaming service with movies having 100% Rotten Tomato Score</li>
+            <li>IMDB Ratings Count</li>
+            <li>Number of movies having IMDB >=7.5 in each Streaming Service</li>
+            <li>Count of movies for a given Language</li>
+            <li>Brief on average Duration of Movies</li>
+            <li>Director with most movies across all platforms</li>
+            <li>Movies available in given two platforms</li>
+            <li>Famous Genres</li>
+            <li>Top movies in streaming platform</li>
+        </ul>
+</ul>
 
 ## Kaggle Submission Link
 Incase the uploaded notebook doesn't show output, please visit my Kaggle submission [here](https://www.kaggle.com/sahilchachra/netflix-hulu-disney-prime-data-visualzation). Thanks! :-D.
