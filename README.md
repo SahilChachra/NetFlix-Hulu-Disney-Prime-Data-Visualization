@@ -1,7 +1,7 @@
 <h1 align="center">Netflix, Hulu, Prime Video, Disney+ Data Visualization</h1>
 
 <div align='center'>
-<img src=''><br>
+<img src=''>https://github.com/SahilChachra/NetFlix-Hulu-Disney-Prime-Data-Visualization/blob/main/sampleImages/tenor.gif<br>
 Above GIF has been downloaded from tenor.com
 </div>
 
@@ -47,4 +47,4 @@ The dataset used can be downloaded here (Kaggle) - [Click to Download](https://w
 Made with :heart:&nbsp;  by [Sahil Chachra](https://github.com/SahilChachra)
 
 ## :eyes: License
-MIT © [Sahil Chachra]()
+MIT © [Sahil Chachra](https://github.com/SahilChachra/NetFlix-Hulu-Disney-Prime-Data-Visualization/blob/main/LICENSE)
