@@ -39,7 +39,7 @@ During the lockdown period of 2020, these streaming platforms gained alot of use
         </ul>
 </ul>
 
-## Kaggle Submission Link
+## :book: Kaggle Submission Link
 Incase the uploaded notebook doesn't show output, please visit my Kaggle submission [here](https://www.kaggle.com/sahilchachra/netflix-hulu-disney-prime-data-visualzation). Thanks! :-D.
 
 ## :file_folder: Dataset
